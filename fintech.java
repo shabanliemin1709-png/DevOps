@@ -67,30 +67,43 @@ public class fintech {
         //    System.out.println("Error gijdulag");
         //}
 
-        Scanner suka = new Scanner(System.in);
-        System.out.print("chose option:");
-        int answer = suka.nextInt();
+        //Scanner suka = new Scanner(System.in);
+        //System.out.print("chose option:");
+        //int answer = suka.nextInt();
 
 
 
-        switch (answer) {
-            case 1:
-                System.out.println("first option");
-                break;
+        //switch (answer) {
+            //case 1:
+            //    System.out.println("first option");
+            //    break;
 
-            case 2:
-                System.out.println("u choosed second option");
-                break;
+            //case 2:
+              //  System.out.println("u choosed second option");
+                //break;
 
-            case 3:
-                System.out.println("u choosed third option");
-                break;
+            //case 3:
+              //  System.out.println("u choosed third option");
+             //   break;
            
-            default:
-                System.out.println("Nothink");
-                break;
+            //default:
+               // System.out.println("Nothink");
+              //  break;
+
+        
+
+            
+int x = 5;
+int y = 6;
+
+System.out.println("The sum is " + x + y);   // Prints: The sum is 56
+System.out.println("The sum is " + (x + y)); // Prints: The sum is 11
+
+
+
         }
 
     } 
 
-}
+
+    
